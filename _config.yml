@@ -1,4 +1,4 @@
-	name: jun
-	markdown: kramdown
+name: jun
+markdown: kramdown
 
 theme: jekyll-theme-cayman
